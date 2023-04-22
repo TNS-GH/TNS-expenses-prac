@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TNS-react-prac/static/css/main.d68526d2.css",
+    "main.js": "/TNS-react-prac/static/js/main.cc208791.js",
+    "index.html": "/TNS-react-prac/index.html",
+    "main.d68526d2.css.map": "/TNS-react-prac/static/css/main.d68526d2.css.map",
+    "main.cc208791.js.map": "/TNS-react-prac/static/js/main.cc208791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68526d2.css",
+    "static/js/main.cc208791.js"
+  ]
+}
