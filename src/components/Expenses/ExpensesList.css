@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .expenses-list {
   list-style: none;
   padding: 0;
@@ -7,3 +8,14 @@
   color: white;
   text-align: center;
 }
+=======
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+}
+>>>>>>> 88434f7 (first commit)
